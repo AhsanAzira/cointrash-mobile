@@ -7,15 +7,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-<p align="center">
-  <img src="assets/images/screenshot1.png" width="200">
-  <img src="assets/images/screenshot2.png" width="200">
-  <img src="assets/images/screenshot3.png" width="200">
-</p>
-
----
 
 ## 🚀 Fitur Utama
 
